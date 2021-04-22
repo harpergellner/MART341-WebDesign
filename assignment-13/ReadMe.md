@@ -1,0 +1,4 @@
+I used the bootstrap library, bootstrap With Bootstrap, there’s almost no need to spend thought on tricky CSS positioning and browser incompatibilities. All you need to do write out the HTML, and then applying the appropriate CSS classes causes the responsiveness to come alive. 
+I used local file, this is when the process of including files, that are already locally present on the server, through the exploiting of vulnerable inclusion procedures implemented in the application.
+It improves markup tags including audio and video, animation canvas aspect, as well as modern semantic elements such as header, article, and aside. This gives a different appearance and meaning to various web page elements. 
+I had a lot of challenges this week, one being applying fonts the right way, and the other challenge was with bootstraps how to apply them to the page. Thanks to your help I was able to overcome those challenges and I hope my page turned out the way I was hoping. 
