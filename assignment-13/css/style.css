@@ -11,13 +11,13 @@ body{
 div{
     text-align: left;
     line-height: 1.45em;
-    font-family:  FiraSans, sans-serif;
+    font-family:  'Fira Sans', sans-serif;
     margin-bottom: 10px;
     padding: 5px;
 }
 h1, h3, h5{
     text-align: center;
-    font-family: FiraSans, sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     
 }
 .opening-paragraph{
@@ -36,14 +36,14 @@ h1, h3, h5{
 
 table{
     border: 1px dashed rgb(207, 198, 198);
-    font-family:  FiraSans, sans-serif;
+    font-family:  'Fira Sans', sans-serif;
     font-weight: 700;
     padding: 10px;
 }
 
 
 p{
-    font-family:  Merriweather, sans-serif;
+    font-family: 'Merriweather', sans-serif;
 }
 
 /* Set your header design: */
@@ -52,7 +52,7 @@ header {
     top: 0px;
     left: 0px;
     background-color: #bfc2cc;
-    font-family: Merriweather;
+    font-family: 'Merriweather';
     text-transform: uppercase;
     margin-top: 0;
     height: 4em;
@@ -117,68 +117,73 @@ header {
     background-color: #a2a2a2;
 }
 
+table{
+    border: 1px dashed black;
+    font-family:  'Fira Sans', sans-serif;
+    font-weight: 700;
+    padding: 10px;
+}
 .mainimage{
     float: left;
-    content:url("");
+    content:url("../images/the\ movie\ ratatouille.jpg");
 
 }
-
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .mainimage{
-        content:url("image:ratatouille.jped");
+        content:url("../images/the\ movie\ ratatouille.jpg");
     }
 }
 
 .secondimage{
     float:right;
-    content:url("");
+    content:url("../images/2007\ movie.jpg");
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .secondimage{
         float:right;
-        content:url("");
+        content:url("../images/2007\ movie.jpg");
     }
 }
 
 .thirdimage{
     margin: auto;
-    content:url("");
+    content:url("../images/ratatouille.jpg");
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .thirdimage{
         margin: auto;
-        content:url("");
+        content:url("../images/ratatouille.jpg");
     }
 }
 
 .fourthimage{
     margin:auto;
-    content:url("");
+    content:url("../images/anyone\ can\ cook.jpg");
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .fourthimage{
         margin: auto;
-        content:url("");
+        content:url("../images/anyone\ can\ cook.jpg");
     }
 }
 
 .fifthimage{
     margin:auto;
-    content:url("");
+    content:url("../images/ratatouille-plus-remy-disney-movie-food.jpeg");
 }
 
 /* For width 600px and larger: */
 @media only screen and (min-width: 600px) {
     .fifthimage{
         margin: auto;
-        content:url("");
+        content:url("../images/ratatouille-plus-remy-disney-movie-food.jpeg");
     }
 }
 .col-1 {width: 8.33%;}
